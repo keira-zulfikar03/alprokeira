@@ -1,0 +1,1 @@
+print('Sheryl Lee Ralph once said, "just because you have rights today does not mean you will have rights tomorrow."')
