@@ -1,0 +1,12 @@
+locations = ['swiss', 'japan', 'NTB', 'netherlands', 'italy', 'europe']
+print(locations)
+print(sorted(locations))
+print(locations)
+print(sorted(locations, reverse=True))
+print(locations)
+print(locations.reverse())
+print(locations)
+print(locations.sort())
+print(locations)
+print(locations.sort(reverse=True))
+print(locations)
